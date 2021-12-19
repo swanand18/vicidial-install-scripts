@@ -21,7 +21,7 @@ reboot
 # Install VICIDIAL Now
 
 ```
-git clone https://github.com/jaganthoutam/vicidial-install-centos7.git
+git clone https://github.com/swanand18/vicidial-install-centos7.git
 cd vicidial-install-scripts
 ```
 
